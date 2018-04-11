@@ -5,9 +5,9 @@
   "author": "Gavin <gavin199502@gmail.com>",
   "private": false,
   "engines": {
-    "node": ">=4.8.0",
-    "npm": ">=2.15.11",
-    "yarn": ">=0.20.3"
+    "node": ">=6.9.4",
+    "npm": ">=3.10.0",
+    "yarn": ">=1.0.0"
   },
   "scripts": {},
   "repository": {
