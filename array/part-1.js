@@ -178,3 +178,12 @@ const findId = (arr, val) => {
 };
 console.log(findId(array, 'value-2-2xxx-1092x'));
 
+
+// 4、构建一个0~100的所有偶数数组
+
+// 方案一：
+// const numArray = [...new Array(101).keys()].slice(1).filter(num => num % 2 === 0);
+// 方案二：
+const numArray = Array.from(new Array(50), (v, i) => (i + 1) * 2);
+console.log(numArray);
+

@@ -6,4 +6,4 @@
 - [字符串相关](#string)
 
 ### Array
-- [part-1](/array/part-1.js)：构建三角形数组值(repeat、Array.from)、根据给定数组元素移除数组元素(RegExp、filter)、常见级联分类问题（广度优先、深度优先）
+- [part-1](/array/part-1.js)：构建三角形数组值(repeat、Array.from)、根据给定数组元素移除数组元素(RegExp、filter)、常见级联分类问题（广度优先、深度优先）、构建一个0~100的偶数数组
